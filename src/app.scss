@@ -1,1 +1,23 @@
+// VARIABILI
+$main_color: #EE4C7C;
 
+$title_color: #9A1750;
+
+$subtitle_color: #5D001E;
+
+// MAIN
+body{
+  background-color: #E3E2DF;
+}
+
+h1{
+  color: $main_color;
+}
+
+h2{
+  color: $title_color;
+}
+
+h3{
+  color: $subtitle_color;
+}
